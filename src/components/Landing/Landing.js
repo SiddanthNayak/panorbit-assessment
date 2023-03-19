@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { getUsers } from "../../utils/api";
 import { SUCCESS_STATUS } from "../../utils/constants";
-import { Scrollbars } from "react-custom-scrollbars";
+import { Scrollbars } from "react-custom-scrollbars-2";
 import style from "./Landing.module.css";
 import { Link } from "react-router-dom";
 
